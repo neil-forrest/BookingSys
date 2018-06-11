@@ -1,0 +1,2 @@
+
+<div class="col-12" style="position: relative; text-align: center; color: white;"><img src="images/new.jpg" class="img-responsive" style="max-width: 80%; max-height: 40%; margin:auto;"><div class="layer"><h1 style="font-size:3vw;">exchange the. info</h1></div></div>

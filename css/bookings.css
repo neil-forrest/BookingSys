@@ -1,0 +1,62 @@
+
+     #CreateNextMonth 
+    {
+     background-color:#ffDFdf;  
+     padding-top:30px;
+    min-height: 450px;
+    }
+    
+     #CreatePreviousMonth 
+    {
+     background-color:#DFfFdf;  
+     padding-top:30px;
+     min-height: 450px;
+    }
+    
+ #CreateMonth 
+    {
+     background-color:#DFDFff;  
+     padding-top:30px;
+     min-height: 450px;   
+    }
+
+    table {  
+    color: #333;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 13px;
+     table-layout: fixed;
+    width: 100%; 
+    border: 3px solid #ddd;
+  
+}
+
+ td, th {  
+    width:50px;
+   border: 1px solid #ddf;
+    height: 50px;
+    transition: all 0.3s;  /* Simple transition for hover effect */
+}
+
+#CreateMonth th {  
+    background: #DFDFff;  /* Darken header a bit */
+    font-weight: bold;
+    text-align: center;
+}
+    
+#CreatePreviousMonth th {  
+    background: #DFfFdf;  /* Darken header a bit */
+    font-weight: bold;
+    text-align: center;
+}
+
+#CreateNextMonth th {  
+    background: #ffDFdf;  /* Darken header a bit */
+    font-weight: bold;
+    text-align: center;
+}
+td {  
+    background: #FAFAFA;
+    text-align: center;
+}
+
+
